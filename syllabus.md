@@ -1,6 +1,8 @@
 # Syllabus
-  Hao Ye
-  Health Science Center Libraries, University of Florida
+  Gabriele Hayden
+  Data Services, University of Oregon Libraries
+  
+  Forked and lightly modified from syllabus and materials by Hao Ye, Health Science Center Libraries, University of Florida
   (updated: 2020-11-26)
 
 ## Intro
